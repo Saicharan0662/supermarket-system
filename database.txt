@@ -1,0 +1,5 @@
+ 1 facewash 100 5
+ 2 shampoo 320 8
+ 3 facemask 450 10
+ 4 softdrink 40 0
+ 6 sipper 90 10
